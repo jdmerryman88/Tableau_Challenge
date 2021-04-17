@@ -1,0 +1,11 @@
+July Yearly Analysis
+
+This dashboard allows for the comparison on a yearly basis of total rides versus total rides completed by a subscriber in the Month of July. This dashboard shows that there was an increase in both rides and subscriber rides from 2013 to 2019 however both numbers decreases significantly in 2020. This decrease in both was likely due to the Covid-19 outbreak during 2020. However, this data also shows that subscriber rides are lagging behind total rides, this is most likely due to tourist using the bikes that do not think it is necessary to subscribe to the service while only visiting New York.
+
+
+
+This analysis shows the total duration of time a bike was used in the Month of July from 2013-2020. From this we can determine the bikes that were used most often. If we pair that with service records for each bike it will give us a prediction of how when a bike needs to be removed and serviced to prevent any issues when a customer selects a certain bike. This will also allow us to predict when a bike is reaching the end of if its useable life so it can be exchanged for a new bike. 
+
+Time of Ride versus Hour Started/Stopped
+
+This visualization allows the user to see the duration of trips based on the time the trip started or ended. This allows the user to see the peak times at which a bike is used. This shows that bike time increases throughout the dat with spikes around 8 AM and 6 PM. This is most likely because those are the times people are going to work and are using the bikes to commute to their jobs. It is also noted that this can be broken down on a yearly basis also. 
